@@ -1,0 +1,7 @@
+organization=nawarorga
+projectKey=n-project1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.27440
+dashboardUrl=https://sonarcloud.io/dashboard?id=n-project1
+ceTaskId=AX9zByRJn9xG16SWdW3i
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX9zByRJn9xG16SWdW3i
