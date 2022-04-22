@@ -3,7 +3,7 @@ import java.util.logging.Logger;
 
 public class test {
 
-
+public int x;
 public boolean TestMethod(int x) {
   
   String password = "blue";
